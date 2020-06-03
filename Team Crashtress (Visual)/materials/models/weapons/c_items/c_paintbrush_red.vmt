@@ -1,0 +1,36 @@
+VertexLitGeneric
+{
+	$baseTexture models\weapons\c_items\c_paintbrush_red
+	$bumpMap models\weapons\c_items\c_paintbrush_normal
+	
+	$lightWarpTexture models\lightwarps\weapon_lightwarp
+	
+	$phong 1
+	$phongExponent 16
+	$phongBoost 4
+	$phongFresnelRanges "[0.25 0.5 1]"
+	
+	$rimLight 1
+	$rimLightExponent 4
+	$rimLightBoost 2
+	
+	$cloakPassEnabled 1
+	$cloakColorTint "[0.4 0.5 1.0]"
+	
+	Proxies
+	{
+		Spy_Invis
+		{
+		}
+		ItemTintColor
+		{
+			resultVar $colorTintTemp
+		}
+		SelectFirstIfNonZero
+		{
+			srcVar1 $colorTintTemp
+			srcVar2 $colorTintBase
+			resultVar $color2
+		}
+	}
+}

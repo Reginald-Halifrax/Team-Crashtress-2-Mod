@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "models/weapons/c_items/c_eyepander"
+	$translucent 1
+	$vertexcolor 1
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"backpack/workshop/player/items/engineer/titanium_stripes/titanium_stripes"
+	"$translucent"		"1"
+	"$vertexcolor"		"1"
+}

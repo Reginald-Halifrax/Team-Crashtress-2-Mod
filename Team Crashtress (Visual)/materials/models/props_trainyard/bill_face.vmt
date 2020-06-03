@@ -1,0 +1,16 @@
+vertexlitgeneric
+{
+
+$baseTexture "models/props_trainyard/bill_face"
+$compress "models\props_trainyard\bill_face_compress"
+$stretch "models\props_trainyard\bill_face_compress"
+$bumpmap "models\props_trainyard/bill_face_normal"
+
+$phong 1
+$phongboost 0.1
+$phongexponent 20
+$phongtint "[.85 .85 1]"
+$phongfresnelranges "[.3 3 30]"
+$nodecal 0
+$ambientocclusion 1
+}

@@ -1,0 +1,13 @@
+"vertexlitgeneric" {
+    "$basetexture" "models\flag\gamecube\gamecube_skin_red"
+    "$surfaceprop" "metal"
+	"$model" 1
+    "$selfillum" "1"
+"$bumpmap" "models\flag\gamecube\gamecube_skin_normal"
+
+	"$phong" "1"
+	"$phongexponent" "2"
+	"$phongboost" "1"	
+	"$halflambert" "1"
+
+}

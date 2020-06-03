@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"backpack/workshop/player/items/engineer/titanium_stripes/titanium_stripes_large"
+	"$translucent"		"1"
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"backpack/workshop/player/items/engineer/joy_of_engineering/joy_of_engineering"
+	"$translucent"		"1"
+	"$vertexcolor"		"1"
+}

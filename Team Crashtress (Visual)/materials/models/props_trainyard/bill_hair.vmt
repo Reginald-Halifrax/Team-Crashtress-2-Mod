@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+$baseTexture "models\props_trainyard\bill_hair"
+$halflambert 1
+$translucent 1
+$phong 1
+$phongboost 1
+$phongexponent 9
+$phongtint "[.85 .85 1]"
+$phongfresnelranges "[.3 3 30]"
+$nodecal 0
+$ambientocclusion 1
+
+
+
+$nocull 1
+}

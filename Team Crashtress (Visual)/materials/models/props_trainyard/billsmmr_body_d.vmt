@@ -1,0 +1,13 @@
+vertexlitgeneric
+{
+
+$baseTexture "models\props_trainyard\billsmmr_body_d"
+$bumpmap "models\props_trainyard/billsmmr_body_n"
+$halflambert 1
+$phong 1
+$phongboost "1.5"
+$phongexponent 9
+$phongtint "[.85 .85 1]"
+$phongfresnelranges "[.3 4 30]"
+$ambientocclusion 1
+}

@@ -1,0 +1,13 @@
+vertexlitgeneric
+{
+
+$baseTexture "models/props_trainyard/bill_elements"
+$bumpmap "models\props_trainyard/bill_elements_normal"
+$phong 1
+$phongboost 0.1
+$phongexponent 9
+$phongtint "[.85 .85 1]"
+$phongfresnelranges "[.3 3 30]"
+$nodecal 0
+$ambientocclusion 1
+}
