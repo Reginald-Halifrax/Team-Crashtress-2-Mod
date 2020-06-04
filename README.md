@@ -1,2 +1,2 @@
 # Team-Crashtress-2-Mod
-The repository where me and a few folk introduce and modify a Meme filled mod for tf2
+A repository where me and a few friends merge/create a chaos mod for tf2.
